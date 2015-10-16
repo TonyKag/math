@@ -87,5 +87,9 @@ package com.sqa.ao.math;
  *
  */
 public class Calculator {
+	public double static addNumbers(double operand1, double operand2);
 
+	public double static multiplyNumbers(double operand1, double operand2);
+
+	public double static divideNumbers(double operand1, double operand2);
 }
