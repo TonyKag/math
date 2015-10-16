@@ -69,6 +69,13 @@ eg. 2.0, 2.0.1, 1.3.1
  *   Java Boot Camp Exercise<br>
  *   Instructor: Jean-francois Nepton<br>
  *   Created: Oct 15, 2015
+ *
+groupId - com.sqa.jmn
+artifactId - math
+version - 1.0-SNAPSHOT
+Class name: math (based on artifactId)
+package com.sqa.jmn.math (groupId + artifactId)
+Class Name - Calculator
  *   
  */
 
