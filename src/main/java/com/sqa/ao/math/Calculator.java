@@ -70,11 +70,11 @@ eg. 2.0, 2.0.1, 1.3.1
  *   Instructor: Jean-francois Nepton<br>
  *   Created: Oct 15, 2015
  *
-groupId - com.sqa.jmn
+groupId - com.sqa.ao
 artifactId - math
 version - 1.0-SNAPSHOT
 Class name: math (based on artifactId)
-package com.sqa.jmn.math (groupId + artifactId)
+package com.sqa.ao.math (groupId + artifactId)
 Class Name - Calculator
  *   
  */
@@ -94,9 +94,5 @@ package com.sqa.ao.math;
  *
  */
 public class Calculator {
-	public double static addNumbers(double operand1, double operand2);
 
-	public double static multiplyNumbers(double operand1, double operand2);
-
-	public double static divideNumbers(double operand1, double operand2);
 }
